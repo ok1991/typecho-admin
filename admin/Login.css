@@ -58,3 +58,10 @@ input{
  border-radius: 5px;   
  margin: 0;   
 }
+#footer{
+ position:fixed;
+ width: 100%;
+ text-align: center;
+ bottom: 0px;
+ display: block;
+}
